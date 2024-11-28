@@ -394,7 +394,7 @@ body {
   width: 733px;
   height: 362px;
   background-color: white;
-  background-image: url(components/item1.svg);
+  background-image: url(../components/item1.svg);
   background-repeat: no-repeat;
   border-radius: 30px;
 }
@@ -404,7 +404,7 @@ body {
   width: 547px;
   height: 362px;
   background-color: white;
-  background-image: url(components/bag1.svg), url(components/bag2.svg), url(components/bag3.svg);
+  background-image: url(../components/bag1.svg), url(../components/bag2.svg), url(../components/bag3.svg);
   background-repeat: no-repeat;
   background-position: 400px 278px, 74px 299px, 460px 84px;
   border-radius: 30px;
@@ -488,7 +488,7 @@ body {
   width: 547px;
   height: 362px;
   background-color: white;
-  background-image: url(components/item3.svg);
+  background-image: url(../components/item3.svg);
   background-position: 345px 280px;
   background-repeat: no-repeat;
   border-radius: 30px;
@@ -500,7 +500,7 @@ body {
   width: 733px;
   height: 362px;
   background-color: white;
-  background-image: url(components/item4.svg);
+  background-image: url(../components/item4.svg);
   background-position: 470px 61px;
   background-repeat: no-repeat;
   border-radius: 30px;
@@ -535,10 +535,10 @@ body {
 .social-icon {
   width: 600px;
   height: 362px;
-  background-image: url(components/facebook.svg),
-    url(components/twitter.svg),
-    url(components/inst.svg),
-    url(components/tiktok.svg);
+  background-image: url(../components/facebook.svg),
+    url(../components/twitter.svg),
+    url(../components/inst.svg),
+    url(../components/tiktok.svg);
   background-repeat: no-repeat;
   background-position: 25px 40px, 180px 145px, 328px 40px, 470px 145px;
 }
